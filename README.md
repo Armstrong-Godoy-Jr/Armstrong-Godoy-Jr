@@ -1,6 +1,6 @@
 ### **Hi there**! 😎
 
-I'm Armstrong Jr, PhD in Physics and Data Scientist in training. 
+I'm Armstrong Jr, PhD in Physics and Data Scientist. 
 
 💻**Programming Languages:** 
 
